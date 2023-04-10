@@ -6,6 +6,6 @@ Multi-page `streamlit` app for leveraging [computational photography](https://gi
 ## Usage ##
 To run the app:
 ```sh
-streamlit run Main_Page_📁.py
+streamlit run Main_Page_🧊.py
 ```
 Additional pages can be accessed from the sidebar.
