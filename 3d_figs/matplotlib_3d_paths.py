@@ -77,5 +77,4 @@ if __name__ == "__main__":
     line_plot_3d()
     ax_scatter3D_plot()
     plotting_contour_graphs()
-    plotting_contour_graphs()
     plotting_surface_triangulations()
